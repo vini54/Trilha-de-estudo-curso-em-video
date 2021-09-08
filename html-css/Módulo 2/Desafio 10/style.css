@@ -68,7 +68,7 @@ article {
     margin: auto;
     padding: 10px;
     border-radius: 20px;
-    min-width: 400px;
+    min-width: 300px;
     max-width: 800px;
 }
 article > h1,h2 {
@@ -90,6 +90,7 @@ article > p {
     line-height: 1.5em;
 }
 .images {
+    width: 100%;
     display: flex;
     justify-content: center;
 }
